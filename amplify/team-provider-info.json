@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-whatsmart-dev-52002-authRole",
+      "UnauthRoleArn": "arn:aws:iam::143618350753:role/amplify-whatsmart-dev-52002-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::143618350753:role/amplify-whatsmart-dev-52002-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-whatsmart-dev-52002-deployment",
+      "UnauthRoleName": "amplify-whatsmart-dev-52002-unauthRole",
+      "StackName": "amplify-whatsmart-dev-52002",
+      "StackId": "arn:aws:cloudformation:us-east-1:143618350753:stack/amplify-whatsmart-dev-52002/039f41c0-63d4-11ef-80af-12cca92520cf",
+      "AmplifyAppId": "d1pwygi8ze09zc"
+    }
+  }
+}
